@@ -1,1 +1,10 @@
 # Martian-Token-Crowdsale
+
+kasei_crowdsale_address:
+0x581Dfeca54AF2095B5119068C28543777aD32e0F
+
+kasei_token_address:
+0x7479B7F6685177cA7ec34765Bf0110DBb050A2D0
+
+wallet:
+0xd23df116031E0030b1FC40816613Fd0b2ad9a2B9
