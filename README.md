@@ -32,7 +32,7 @@ Finally we deploy the KaseiCoinCrowdsale contract at address `0x581Dfeca54AF2095
 
 <img src="images/img9.png" width="300"/> <img src="images/img10.png" width="300"/>
 
-To test the functionality of the crowdsale, we bought 100 Wei:
+To test the functionality of the crowdsale, we bought 1000 Wei:
 
 <img src="images/img11.png" width="300"/> <img src="images/img12.png" width="300"/> <img src="images/img13.png" width="300"/>
 
